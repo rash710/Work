@@ -1,0 +1,8 @@
+step 1: assign the two integers
+        int a, b;
+
+step 2:get the value of A and b
+
+step 3:int sum = a + b
+
+step 4:disply the value of sum

@@ -1,0 +1,8 @@
+step 1:assign the radius
+       float r;
+
+step 2:get the value of radius
+
+step 3:float area = 3.14 * r * r;
+
+step 4:print the value of area

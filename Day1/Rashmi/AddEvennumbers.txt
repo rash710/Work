@@ -1,0 +1,10 @@
+                                                                                                                                            step 1: Assign the limit of n
+                                                                                                                                                    int n;
+
+                                                                                                                                            step 2:get the value of n
+
+                                                                                                                                            step 3:check whether i %2 ==0
+
+                                                                                                                                            step 4:if the condition is true sum = sum + 2;
+
+                                                                                                                                            step 5:display the value of sum                                                                                                                                                                                       
